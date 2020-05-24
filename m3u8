@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.101204200421.png", Channel 9
+https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
+#EXTINF:0 type="stream" channelId="1104" logo="https://media.info/i/lf/0/1489376467/6568.png", 9Life
+https://i.mjh.nz/au/Sydney/tv.101204200424.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.101204200428.png", 9Go!
+https://i.mjh.nz/au/Sydney/tv.101204200428.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.101204200427.png", 9Gem
+https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
+#EXTINF:0 type="stream" channelId="3638" logo="https://i.mjh.nz/au/images/tv.101406020625.png", 10 TEN
+https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.101406020628.png", 10 Peach
+https://i.mjh.nz/au/Sydney/tv.101406020628.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.101406020621.png", 10 Bold
+https://i.mjh.nz/au/Sydney/tv.101406020621.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.101305020520.png", 7 Seven
+https://i.mjh.nz/au/Sydney/tv.101305020520.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.101305020527.png", 7mate HD Sydney
+https://i.mjh.nz/au/Sydney/tv.101305020527.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.101305020523.png", 7mate
+https://i.mjh.nz/au/Sydney/tv.101305020523.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.10130502052.png", 7food network Sydney
+https://i.mjh.nz/au/Sydney/tv.10130502052.m3u8
+#EXTINF:0 type="stream" channelId="3212" logo="https://i.mjh.nz/au/images/tv.101305020525.png", 7flix
+https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.101305020522.png", 7TWO
+https://i.mjh.nz/au/Sydney/tv.101305020522.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Australian_Broadcasting_Corporation_logo_%281974-%29.svg/1200px-Australian_Broadcasting_Corporation_logo_%281974-%29.svg.png", ABC Aussie
+http://58.96.43.121:9981/stream/channelid/346100795?profile=pass&
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ABC_Kids_Logo_2020.png/220px-ABC_Kids_Logo_2020.png", ABC Kids
+http://58.96.43.121:9981/stream/channelid/60031137?profile=pass&
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/ABC_ME_logo.svg/180px-ABC_ME_logo.svg.png", ABC ME
+http://58.96.43.121:9981/stream/channelid/739262830?profile=pass&
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.320203000307.png", SBS World Movies Sydney
+https://i.mjh.nz/au/Sydney/tv.320203000307.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.320203000303.png", SBS VICELAND HD
+https://i.mjh.nz/au/Sydney/tv.320203000303.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.320203000304.png", SBS Food
+https://i.mjh.nz/au/Sydney/tv.320203000304.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.320203000301.png", SBS
+https://i.mjh.nz/au/Sydney/tv.320203000301.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.101305020528.png", RACING.COM
+https://i.mjh.nz/au/Sydney/tv.101305020528.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.7openshop.png", Openshop
+https://i.mjh.nz/au/Sydney/tv.7openshop.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.7pac12.png", PAC-12
+https://i.mjh.nz/au/Sydney/tv.7pac12.m3u8
+#EXTINF:0 type="stream" channelId="353" logo="https://i.mjh.nz/au/images/tv.7outdoor.png", Outdoor Channel
+https://i.mjh.nz/au/Sydney/tv.7outdoor.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.7olympics.png", Olympics Channel
+https://i.mjh.nz/au/Sydney/tv.7olympics.m3u8
+#EXTINF:0 type="stream" channelId="4172" logo="https://i.mjh.nz/au/images/tv.7fueltv.png", Fuel TV
+https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.320203000305.png", NITV
+https://i.mjh.nz/au/Sydney/tv.320203000305.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.snowy-mountains.png", Snowy Mountains Television
+https://i.mjh.nz/au/Sydney/tv.snowy-mountains
+#EXTINF:0 type="stream" channelId="1333" logo="https://i.mjh.nz/au/images/tv.redbull.tv.png", Redbull TV
+https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
+#EXTINF:0 type="stream" channelId="-1", Food Network USA
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fashion Paris
+http://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fashion Teens
+https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fashion PG16
+https://dstroscal1.s.llnwi.net/ftv/ftv_pg16_adaptive_v3.smil/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fashion PG16
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:0 type="stream" channelId="185", HD Fashion & Lifestyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.fox.sports.news.png", Fox Sports News
+https://i.mjh.nz/au/Sydney/tv.fox.sports.news.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://i.mjh.nz/au/images/tv.acctv.png", ACCTV
+https://i.mjh.nz/au/Sydney/tv.acctv.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="\" logo="noimage.png\", Discovery Turbo Australia
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:0 type="stream" channelId="58", Discovery-Science
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1665
+#EXTINF:0 type="stream" channelId="206", Nat Geo Wild HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1666
+#EXTINF:0 type="stream" channelId="-1", ZEN HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1662
+#EXTINF:0 type="stream" channelId="3396", NRJ Hits
+http://5be019f0d8c6e.streamlock.net:1935/ngroup/NRJHitsTV_720p/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="\" logo="noimage.png\", Rouge
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="\" logo="noimage.png\", ET Entertainment Tonight
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="\" logo="noimage.png\", ET Live
+http://etlive-mediapackage-fastly.cbsaavideo.com/live/manifest.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="قنوات الامارات EMIRATES", DUBAI ONE HD
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:0 type="stream" channelId="-1", MBC1 HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1621
+#EXTINF:0 type="stream" channelId="-1", MBC2 HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1622
+#EXTINF:0 type="stream" channelId="-1", MBC ACTION HD
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1627
+#EXTINF:0 type="stream" channelId="178", FOX LIFE
+http://51.159.21.231:2052/sourcemyhdpro2/649471534@/1659
+#EXTINF:0 type="stream" channelId="119", BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bloomberg Australia
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8
+#EXTINF:0 type="stream" channelId="363" logo="https://i.mjh.nz/nz/images/tv.46.png", Al Jazeera
+https://i.mjh.nz/nz/tv.46.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV 5+
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:0 type="stream" channelId="139" group="NEWS قنوات الاخبار", France24
+http://f24hls-i.akamaihd.net/hls/live/221148/F24_AR_HI_HLS/master_900.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS قنوات الاخبار", DW Arabic
+http://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/master.m3u8?v=
+#EXTINF:0 type="stream" channelId="-1", Al Hurra
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="NEWS قنوات الاخبار", Alaraby TV
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:0 type="stream" channelId="118" group="\" logo="noimage.png\", BBC World News
+http://ott-cdn.ucom.am/s24/04.m3u8
+#EXTINF:0 type="stream" channelId="3369" group="\" logo="noimage.png\", LCI
+http://lci-hls-live-ssl.tf1.fr/lci/1/hls/master_4000000.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="\" logo="noimage.png\", Fox 12
+http://api.new.livestream.com/accounts/19128364/events/5285531/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="\" logo="noimage.png\", Max Online
+https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="443", Otv
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TL
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Mtv LB
+http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/5403.m3u8
+#EXTINF:0 type="stream" channelId="-1", LBCI
+http://51.15.3.161:8080/LDC/index.m3u8?token=test
